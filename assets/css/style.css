@@ -1,0 +1,336 @@
+.koho-extralight {
+  font-family: "KoHo", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.koho-extralight-italic {
+  font-family: "KoHo", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.koho-light {
+  font-family: "KoHo", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.koho-light-italic {
+  font-family: "KoHo", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.koho-regular {
+  font-family: "KoHo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.koho-regular-italic {
+  font-family: "KoHo", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.koho-medium {
+  font-family: "KoHo", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.koho-medium-italic {
+  font-family: "KoHo", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.koho-semibold {
+  font-family: "KoHo", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.koho-semibold-italic {
+  font-family: "KoHo", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.koho-bold {
+  font-family: "KoHo", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.koho-bold-italic {
+  font-family: "KoHo", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.body {
+  font-family: "KoHo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.adorno {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #759b66;
+}
+
+.mainName {
+  color: white;
+}
+
+h1 {
+  font-family: "KoHo", sans-serif;
+  font-weight: 500;
+}
+
+.imgOnTop {
+  width: 150px;
+  padding: 7px;
+  margin: 10px;
+}
+
+.navbar-custom {
+  background-color: #000;
+}
+.navbar-custom .navbar-nav .nav-link {
+  color: #fff;
+  font-family: "KoHo";
+}
+
+#navbarSupportedContent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-family: "KoHo", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.presentation {
+  font-size: 20px;
+  padding-top: 40px;
+  padding-bottom: 70px;
+  padding-left: 40px;
+  font-weight: 500;
+  width: 1800px;
+  height: auto;
+  margin-right: 50px;
+}
+
+.mainCont {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.myPhoto {
+  width: 300px;
+  padding-top: 100px;
+  max-width: 100%;
+  height: auto;
+  border: 0px;
+  padding-bottom: 80px;
+}
+
+.mifoto {
+  max-width: 100%;
+  height: auto;
+  padding-left: 90px;
+  padding-bottom: 70px;
+}
+
+.aboutMe {
+  background-color: #6f9199;
+}
+
+.studies {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: #f9c144;
+  color: #fff;
+  font-family: "KoHo";
+  padding: 30px;
+  font-family: "KoHo", sans-serif;
+  font-size: 19px;
+}
+
+.idiomPr {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h3,
+h4,
+h2,
+h5,
+h6,
+p {
+  text-align: center;
+  font-family: "KoHo", sans-serif;
+}
+
+h3 {
+  font-size: 600;
+}
+
+.portF {
+  justify-content: center;
+}
+.card {
+  margin: 30px; /* Espaciado entre las tarjetas */
+}
+.card img {
+  width: 100%; /* Ancho máximo de la imagen */
+  height: auto; /* Altura automática */
+}
+
+.card-text {
+  text-align: center;
+  font-family: "KoHo", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.catanzaro,
+.profe,
+.redbull,
+.marri {
+  text-align: center;
+  padding: 10px;
+  margin-top: 5px;
+  font-size: 20px;
+}
+
+.ilust {
+  justify-content: center;
+}
+.card {
+  margin: 30px; /* Espaciado entre las tarjetas */
+}
+.card img {
+  width: 100%; /* Ancho máximo de la imagen */
+  height: auto; /* Altura automática */
+}
+
+.idiomPr {
+  background-color: #f69480;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.pega {
+  background-color: black;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.portfolio {
+  background-color: #759b66;
+  padding: 20px;
+}
+
+.kolo {
+  font-weight: 700;
+  color: #fff;
+}
+
+.ilustr {
+  background-color: #f1543d;
+  color: #fff;
+  font-weight: 800;
+  padding: 20px;
+}
+
+.ask {
+  background-color: #6f9199;
+  font-family: "KoHo", sans-serif;
+  color: #fff;
+}
+
+.marri > p {
+  margin-bottom: 0;
+  padding-bottom: 1.6em;
+}
+
+.catanzaro,
+.profe,
+.redbull,
+.marri {
+  color: white;
+  font-family: "KoHo", sans-serif;
+  font-weight: 700;
+}
+
+.presentation {
+  flex: 3;
+}
+
+.mifoto {
+  flex: 1;
+}
+
+.contInfo {
+  background-color: black;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.reds {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.pins {
+  flex-direction: row;
+  margin: 10px;
+  font-size: 50px;
+}
+
+.connct {
+  padding-top: 30px;
+}
+
+.wsp,
+.mail {
+  font-size: 20px;
+  text-align: center;
+}
+
+.contactData {
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
